@@ -1,46 +1,41 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
+description: >-
+  This is a template chapter.
 
-## Ex 1.1
+
+---
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-lang: r
+
 xp: 100
-skills: 1
-key: cd338a1b18
+
+key: d04fe714eb
 ```
 
-Do some data science.
+test
 
 `@instructions`
-
+test
 
 `@hint`
-
+test
 
 `@pre_exercise_code`
-
 ```{r}
-
-```
-
-`@sample_code`
-
-```{r}
-
+test = 1
 ```
 
 `@solution`
-
 ```{r}
-
+test
 ```
-
 `@sct`
-
 ```{r}
-
+test
 ```
+
+
+
