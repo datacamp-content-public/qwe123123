@@ -5,43 +5,6 @@ description: >-
 
 
 ---
-## popopo
-
-```yaml
-type: NormalExercise
-
-xp: 100
-
-key: d04fe714eb
-```
-
-test
-
-`@instructions`
-test
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-test = 1
-```
-
-`@solution`
-```{r}
-test
-```
-`@sct`
-```{r}
-test
-```
-
-
-
-
-
----
 ## Insert exercise title here
 
 ```yaml
