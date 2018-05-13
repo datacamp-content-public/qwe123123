@@ -1,5 +1,5 @@
 ---
-title: Template Chapter 1
+title: qweqweqqwe
 description: >-
   This is a template chapter.
 
@@ -21,7 +21,7 @@ test
 test
 
 `@hint`
-test
+
 
 `@pre_exercise_code`
 ```{r}
@@ -53,8 +53,6 @@ key: cdf5040504
 ```
 
 asd
-
-`@instructions`
 
 
 `@hint`
